@@ -11,7 +11,7 @@ def population_center(data):
             counter += 1
         longitude = x / counter
         latitude = y / counter
-        print(f"The center of the squirrel population is at {longitude}, {latitude}")
+        print(f"The mean center of the squirrel population is at {longitude}, {latitude}")
 
 if __name__ == "__main__":
     population_center('2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv')
