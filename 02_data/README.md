@@ -1,4 +1,5 @@
-## Files: solution.py (sample solution), squirrel census data (csv), startercode.py
+### Files:
+solution.py (sample solution), squirrel census data (csv), startercode.py
 
 ### Assignment
   * title: **data**
