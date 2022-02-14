@@ -1,3 +1,5 @@
+##Files: solution.py (sample solution), squirrel census data (csv), 
+
 ### Assignment
   * title: **data**
   * Create an in-class assignment for using real world data.
@@ -6,16 +8,16 @@
     - Put all the files for your submission here.
     - Include any solution files (these may vary depending on the assignment).
     - Put the assignment instructions in a file called README.md
-      - At the top, include a list of other files in this directory along with a description
+    - At the top, include a list of other files in this directory along with a description
   * You will be presenting this assignment to a small group next class.
 
 ---
 The goal of this lesson is learning how to handle input, in the form of csv files,
 using python's built-in csv capabilities. Students have been provided with the NYC Squirrel census 
-and given the goal of finding the mean population center of Central Park's squirrels
-NBA players. Since this is designed to be an in-class assignment for a single period,
-the goal is to learn how to handle input and iterate through it--I envision this as an early sequence in a data-focused
-unit, since knowing how to handle data input is a fundamental skill to data analysis.
+and given the goal of finding the mean population center of Central Park's squirrels. 
+Since this is designed to be an in-class assignment for a single period,
+the goal is to learn how to handle input and iterate through it--I envision this as an
+early sequence in a data-focused unit, since knowing how to handle data input is a fundamental skill to data analysis.
 
 The lesson for this assignment might go like:
 
@@ -30,6 +32,7 @@ Main Talking points:
 + Why is closing a file important?
 + How can we use the statement "with()" to handle file closure?
 + What is a csv reader object? What can we do with it? 
++ What is "mean population center"? (Show example of US mean population center, changing over time)
 
 After walking through an example as a class--using a different data set as an example--students will then work in groups to
 read in the data from the squirrel dataset, and find the mean population center. 
