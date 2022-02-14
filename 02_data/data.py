@@ -1,20 +1,10 @@
-#~~~~~~~~~~~~file read using csv.reader~~~~~~~~~~~~~~~~
 import csv
 
-# def load_input(data):
-#     with open(data) as f:
-#         depths = [int(i) for i in f]
-#         return
-#~~~~~~~~~~~file read using with() statement~~~~~~~~~~~
-
-
-
-
-#~~~~~~~~~~~~file read using .readlines() method~~~~~~~~~~~~
-
-
-
-#~~~~~~~~~~file read using pandas~~~~~~~~~~~~~~~~~~~~~
+def load_input(data):
+    file = open('nba.csv')
+    reader = csv.reader(file)
+    data = list(reader)
+    print(data)
 
 if __name__ == "__main__":
-    print("hello, world!")
+    load_input('nba.csv')
