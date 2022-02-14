@@ -11,33 +11,30 @@
 
 ---
 The goal of this lesson is learning how to handle input, in the form of csv files,
-using python's built-in csv capabilities. Students have been provided with a handful
-of datasets, ranging from the NYC Squirrel census to the current stats of all 2021-2022
+using python's built-in csv capabilities. Students have been provided with the NYC Squirrel census 
+and given the goal of finding the mean population center of Central Park's squirrels
 NBA players. Since this is designed to be an in-class assignment for a single period,
-the goal is to learn how to handle input--I envision this as an early sequence in a data-focused
+the goal is to learn how to handle input and iterate through it--I envision this as an early sequence in a data-focused
 unit, since knowing how to handle data input is a fundamental skill to data analysis.
 
 The lesson for this assignment might go like:
 
-Do Now: Every day, the world generates countless data points--from temperatures to points
-scores in NBA games. Obviously, that data won't read or analyze itself--how do you predict
-that data scientists (and computer programmers in general) turn that data into a form that
-we can analyze? Sketch out a brainstorm or map of how this might be accomplished.
+Do Now: Pull up a map of Central Park on Google. If you had to guess, where would the average squirrel
+be located in the park? In other words, if you averaged all the x and y coordinates of all the squirrels in the park,
+where would the "center" of the squirrel population be? 
 
-Mini-lesson: Data input
+Mini-lesson: Data input + Mean Population Center
 Main Talking points:
 + What is a csv?
 + How do we use the built-in csv reader in python?
 + Why is closing a file important?
 + How can we use the statement "with()" to handle file closure?
++ What is a csv reader object? What can we do with it? 
 
-After walking through an example as a class, students will then work in groups to
-read in a dataset of their choice--the goal is to construct a program that will read
-and print the data, so that it is ready for further analysis (using traversals) tomorrow.
+After walking through an example as a class--using a different data set as an example--students will then work in groups to
+read in the data from the squirrel dataset, and find the mean population center. 
 
 **NOTE:** The file data.py contains an example of what a solution might look like.
 
-Criteria for Success:
-+ Program takes a csv file as input.
-+ Program successfully "reads" the csv file, separating elements divided by commas.
-+ The program uses a with() statement to handle file closure. 
+*Students can check their work against the expected answer:*
+The center of the squirrel population is at -73.96718384639169, 40.78085300645218
