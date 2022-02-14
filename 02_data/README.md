@@ -33,4 +33,11 @@ Main Talking points:
 
 After walking through an example as a class, students will then work in groups to
 read in a dataset of their choice--the goal is to construct a program that will read
-and print the data, so that it is ready for further analysis (using traversals) tomorrow. 
+and print the data, so that it is ready for further analysis (using traversals) tomorrow.
+
+**NOTE:** The file data.py contains an example of what a solution might look like.
+
+Criteria for Success:
++ Program takes a csv file as input.
++ Program successfully "reads" the csv file, separating elements divided by commas.
++ The program uses a with() statement to handle file closure. 
