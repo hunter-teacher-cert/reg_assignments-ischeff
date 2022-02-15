@@ -22,7 +22,7 @@ early sequence in a data-focused unit, since knowing how to handle data input is
 
 The lesson for this assignment might go like:
 
-Do Now: See/Think/Wonder with csv file of squirrel data! 
+Do Now: See/Think/Wonder with csv file of squirrel data! (Liam) / Enter data rows into applab and wait for folks to realize it's inefficient? (Lyuba)
 
 Mini-lesson: Data input w/csv in python
 Main Talking points:
