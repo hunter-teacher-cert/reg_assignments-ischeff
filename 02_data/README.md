@@ -22,9 +22,7 @@ early sequence in a data-focused unit, since knowing how to handle data input is
 
 The lesson for this assignment might go like:
 
-Do Now: Pull up a map of Central Park on Google. If you had to guess, where would the average squirrel
-be located in the park? In other words, if you averaged all the x and y coordinates of all the squirrels in the park,
-where would the "center" of the squirrel population be? How would you test your guess?
+Do Now: See/Think/Wonder with csv file of squirrel data! (Liam) / Enter data rows into applab and wait for folks to realize it's inefficient? (Lyuba)
 
 Mini-lesson: Data input w/csv in python
 Main Talking points:
