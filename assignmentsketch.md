@@ -22,16 +22,32 @@ function laugh (n):
   laugh n times
 function clap(n):
   clap n times
+function speak(n):
+  pronounce n aloud
   ```
 
 I'll demo each of these, for instance:
 ```
 wiggle(5) means to wiggle your eyebrows 5 times in a row, while
+
 wiggle(5)
-clap(1) means to wiggle your eyebrows 5 times in a row, then clap once, while
-for (var i = 0; i < 5; i ++){
+clap(1)
+means to wiggle your eyebrows 5 times in a row, then clap once, while
+
+for (var i = 0; i < 5; i++){
+  speak(i)
   wiggle(i)
   clap(i)
 }
 ```
 means to wiggle and clap in a loop, first doing each zero times, then once, then twice, then three times, and so on.
+
+Note: feedback from Steve: to differentiate parameter and argument, an argument is only used when you call. When you call somebody a name, you usually have an argument. (Not true if you are declaring something! No one really argues!) I.e., calling someone a name causes an argument.
+
+Feedback from Iulian: try it and share!
+
+Laks: Come up with a shared set of possible actions, and then you can assess how well the program can be read.
+
+You'd have the code, then have to write what it means.
+
+Maybe also include cha cha slide? 
