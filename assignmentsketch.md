@@ -10,7 +10,7 @@ The goal I want to accomplish is create a really fun, engaging and informative u
 + A condition that is easy to turn off/on in any classroom, such as the lights being on/off
 + A set of "moves" that are easy to replicate, such as simple dance moves involving different limbs (i.e., right leg, left leg, etc.)
 ---
-The end product will hopefully be a game that I can use when introducing conditionals next year that will be really sticky (I guess this would work kind of like Simon Says, but have a bit more complexity to it.) After introducing the rules of the game (whatever they turn out to be), and having students practice it with me leading a round, they would then get to design a "program" using the same tools, having their classmates attempt to "run" it, and then assess each other by comparing the intended result (i.e., dance choreography) with the actual result.
+### The end product will hopefully be a game that I can use when introducing conditionals next year that will be really sticky (I guess this would work kind of like Simon Says, but have a bit more complexity to it.) After introducing the rules of the game (whatever they turn out to be), and having students practice it with me leading a round, they would then get to design a "program" using the same tools, having their classmates attempt to "run" it, and then assess each other by comparing the intended result (i.e., dance choreography) with the actual result.
 ---
 The Zoom adaptation of this is as follows:
 ```
