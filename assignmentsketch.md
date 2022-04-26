@@ -50,4 +50,6 @@ Laks: Come up with a shared set of possible actions, and then you can assess how
 
 You'd have the code, then have to write what it means.
 
-Maybe also include cha cha slide? 
+Maybe also include cha cha slide?
+
+Additional feedback from Laks: make this a two-day activity, where the first day is all unplugged, since they will make their own examples and present them to each other, and then the second day you turn this into code! 
