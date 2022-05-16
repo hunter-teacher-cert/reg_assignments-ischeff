@@ -58,31 +58,39 @@ Now, let's play a game!
 
 The Zoom adaptation of this is as follows:
 ```
-function wiggle(n):
-  wiggle your eyebrows n times
-function smile (n):
-  smile n times
-function laugh (n):
-  laugh n times
 function clap(n):
-  clap n times
+  clap your hands n times
+function snap (n):
+  snap your fingers n times
+function shimmy (n):
+  shimmy your shoulders n times
 function speak(n):
   pronounce n aloud
   ```
 
 I'll demo each of these, for instance:
 ```
-wiggle(5) means to wiggle your eyebrows 5 times in a row, while
+snap(5) means to snap your fingers 5 times in a row, while
 
-wiggle(5)
+snap(5)
 clap(1)
-means to wiggle your eyebrows 5 times in a row, then clap once, while
+means to snap 5 times in a row, then clap once, while
 
-for (var i = 0; i < 5; i++){
-  speak(i)
-  wiggle(i)
-  clap(i)
-}
+def dance1(n):
+  snap(n)
+  shimmy(n)
+  clap(n)
+
+def dance2(n)
+  for i in range(n):
+    snap(i)
+    shimmy(i)
+    clap(i)
+
+def dance3(n):
+  dance1(n)
+  dance2(n)
+
 ```
 means to wiggle and clap in a loop, first doing each zero times, then once, then twice, then three times, and so on.
 
@@ -96,4 +104,4 @@ You'd have the code, then have to write what it means.
 
 Maybe also include cha cha slide?
 
-Additional feedback from Laks: make this a two-day activity, where the first day is all unplugged, since they will make their own examples and present them to each other, and then the second day you turn this into code! 
+Additional feedback from Laks: make this a two-day activity, where the first day is all unplugged, since they will make their own examples and present them to each other, and then the second day you turn this into code!
