@@ -92,6 +92,8 @@ def dance3(n):
   dance2(n)
 
 ```
+
+Now make your own dance! (Give criteria and need to have a task sheet and rubric or checklsit for success? )
 means to wiggle and clap in a loop, first doing each zero times, then once, then twice, then three times, and so on.
 
 Note: feedback from Steve: to differentiate parameter and argument, an argument is only used when you call. When you call somebody a name, you usually have an argument. (Not true if you are declaring something! No one really argues!) I.e., calling someone a name causes an argument.
