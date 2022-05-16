@@ -82,12 +82,14 @@ def dance1(n):
   snap(n)
   shimmy(n)
   clap(n)
+  speak(n)
 
 def dance2(n)
   for i in range(n):
     snap(i)
     shimmy(i)
     clap(i)
+    speak(i)
 
 def dance3(n):
   dance1(n)
