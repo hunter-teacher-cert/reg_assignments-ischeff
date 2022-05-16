@@ -1,20 +1,22 @@
 ## Final project
 
-### Topic:
+## Topic:
 Parameters
 
-### Standard(s):
+## Standard(s):
 9-12.CT.4
 Implement a program using a combination of student-defined and third-party functions to organize the computation.
 
-### Aim:
+## Aim:
 How can we use dance to model how parameters work?
 
 ---
 
-### Do Now:
+## Do Now:
 What metaphor might you use to explain how parameters work?
 *The goal here is to elicit what students remember about parameters!*
+
+**Formative Assessment**
 
 Student-created metaphors should:
 + allow for parameters to change value (since they're variables)
@@ -22,3 +24,76 @@ Student-created metaphors should:
 + include, somehow, the idea that parameters take in input, to pass to a function, where they serve some goal.
 
 *An example might be the game of pass the hot potato, where the potato is an argument passed between multiple functions (i.e., people)*
+
+---
+
+## Mini-lesson
+
+Using the whiteboard, I will explain how a parameter is basically like a hopper in minecraft - you can add things into it, to feed inputs into a function. The inputs can be of many different types, just like you can put things into a hopper.
+
+Note: I plan to use a snippet of [this video](https://www.youtube.com/watch?v=XO0IKUsGiG8) to demonstrate how this works. (I'm relying on the fact that most, if not all, students at this point have played minecraft; the hopper has additional functionality that I won't focus on here.)
+
+**Formative Assessment**
+
+Let's make a quick t-chart to review what parameters and arguments are and what the difference is!
+
+We will make a t-chart on the board, which should include the following:
+
+Parameters:
++ provide inputs for functions
++ there can be one or many of these
++ they are variables in function declarations
++ they can take many types of inputs
+
+Arguments:
++ they *are* the inputs for the Parameters
++ can be of many different types, but must match the type of the parameter
++ these appear in function calls, in place of the parameter variable
+
+---
+
+## Activity 1 Intro
+
+Now, let's play a game!
+
+The Zoom adaptation of this is as follows:
+```
+function wiggle(n):
+  wiggle your eyebrows n times
+function smile (n):
+  smile n times
+function laugh (n):
+  laugh n times
+function clap(n):
+  clap n times
+function speak(n):
+  pronounce n aloud
+  ```
+
+I'll demo each of these, for instance:
+```
+wiggle(5) means to wiggle your eyebrows 5 times in a row, while
+
+wiggle(5)
+clap(1)
+means to wiggle your eyebrows 5 times in a row, then clap once, while
+
+for (var i = 0; i < 5; i++){
+  speak(i)
+  wiggle(i)
+  clap(i)
+}
+```
+means to wiggle and clap in a loop, first doing each zero times, then once, then twice, then three times, and so on.
+
+Note: feedback from Steve: to differentiate parameter and argument, an argument is only used when you call. When you call somebody a name, you usually have an argument. (Not true if you are declaring something! No one really argues!) I.e., calling someone a name causes an argument.
+
+Feedback from Iulian: try it and share!
+
+Laks: Come up with a shared set of possible actions, and then you can assess how well the program can be read.
+
+You'd have the code, then have to write what it means.
+
+Maybe also include cha cha slide?
+
+Additional feedback from Laks: make this a two-day activity, where the first day is all unplugged, since they will make their own examples and present them to each other, and then the second day you turn this into code! 
