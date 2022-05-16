@@ -1,5 +1,3 @@
-## Final project
-
 ## Topic:
 Parameters
 
@@ -96,11 +94,42 @@ def dance3(n):
   dance2(n)
 
 ```
+Instructor will walk through each dance above with students, checking for understanding by assessing students movements.
+One potential misunderstanding is that in dance2, each function (snap, shimmy, etc.) takes i as a parameter, not n!
 
-Now make your own dance! (Give criteria and need to have a task sheet and rubric or checklsit for success? )
-means to wiggle and clap in a loop, first doing each zero times, then once, then twice, then three times, and so on.
+---
 
-Note: feedback from Steve: to differentiate parameter and argument, an argument is only used when you call. When you call somebody a name, you usually have an argument. (Not true if you are declaring something! No one really argues!) I.e., calling someone a name causes an argument.
+## Activity 1:
+Now make your own dance!
+
+*Students will have 10 min in small groups to choreograph their own dance!*
+
+Criteria for Success:
++ Your dance must use movements that EVERYONE can do!
++ Your dance MUST involve the use of parameters!
+
+---
+
+## Formative Assessment
+
+Pair up with another group and share your choreography. Students will have 5 minutes
+to practice!
+
+Once they have rehearsed, students perform for the groups with which they traded
+choreography.
+
+Assessment Criteria:
++ Does your dance match the choreography?
+
+---
+
+## Exit Ticket:
+What are three things you learned, two things you found interesting, and one question that you still have?
+(Write on an index card!)
+
+---
+
+## Feedback:
 
 Feedback from Iulian: try it and share!
 
@@ -111,3 +140,5 @@ You'd have the code, then have to write what it means.
 Maybe also include cha cha slide?
 
 Additional feedback from Laks: make this a two-day activity, where the first day is all unplugged, since they will make their own examples and present them to each other, and then the second day you turn this into code!
+
+Note: the feedback above has been incorporated by simplifying the dances to include movement that everyone can use. (I considered making the dance moves standard for the individual practice, but I'd like to see what students do!) I also made this totally unplugged, as per Marisa's suggestion; in theory, this would be followed by a day of coding where you see this concept in code. 
