@@ -56,6 +56,8 @@ Arguments:
 
 Now, let's play a game!
 
+(Note: we will use the instrumental from [Rapper's Delight by Sugar Hill Gang](https://www.youtube.com/watch?v=D9QIH2N-hnE))
+
 The Zoom adaptation of this is as follows:
 ```
 function clap(n):
