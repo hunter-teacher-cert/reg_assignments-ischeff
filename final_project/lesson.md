@@ -8,6 +8,10 @@ Implement a program using a combination of student-defined and third-party funct
 ## Aim:
 How can we use dance to model how parameters work?
 
+## Materials:
+[Slides](https://docs.google.com/presentation/d/1D2uFXvBMAb4KUnxdras_W_ebtcB2RZSf32jpyQLolGw/edit?usp=sharing)
+
+
 ---
 
 ## Do Now:
@@ -108,6 +112,11 @@ Criteria for Success:
 + Your dance must use movements that EVERYONE can do!
 + Your dance MUST involve the use of parameters!
 
+**Differentiation**
+For a challenge, try the following:
++ Incorporate a loop!
++ Call a function within a function!
+
 ---
 
 ## Formative Assessment
@@ -141,4 +150,4 @@ Maybe also include cha cha slide?
 
 Additional feedback from Laks: make this a two-day activity, where the first day is all unplugged, since they will make their own examples and present them to each other, and then the second day you turn this into code!
 
-Note: the feedback above has been incorporated by simplifying the dances to include movement that everyone can use. (I considered making the dance moves standard for the individual practice, but I'd like to see what students do!) I also made this totally unplugged, as per Marisa's suggestion; in theory, this would be followed by a day of coding where you see this concept in code. 
+Note: the feedback above has been incorporated by simplifying the dances to include movement that everyone can use. (I considered making the dance moves standard for the individual practice, but I'd like to see what students do!) I also made this totally unplugged, as per Marisa's suggestion; in theory, this would be followed by a day of coding where you see this concept in code.
