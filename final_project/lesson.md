@@ -112,7 +112,7 @@ Criteria for Success:
 + Your dance must use movements that EVERYONE can do!
 + Your dance MUST involve the use of parameters!
 
-**Differentiation**
+**Differentiation**:
 For a challenge, try the following:
 + Incorporate a loop!
 + Call a function within a function!
