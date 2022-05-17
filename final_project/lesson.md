@@ -113,6 +113,7 @@ Criteria for Success:
 + Your dance MUST involve the use of parameters!
 
 **Differentiation**:
+
 For a challenge, try the following:
 + Incorporate a loop!
 + Call a function within a function!
